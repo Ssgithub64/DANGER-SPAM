@@ -1,0 +1,94 @@
+{
+    "name": "ITACHI HERE.",
+    "logo": "https://graph.org/file/d25c0365773aecb895df2.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "PythonX",
+        "SpamBots"
+    ],
+    "repository": "https://github.com/ITACHI9264/Vegito",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "7218510765:AAE74uJ7K0ZhFidNJ9B3gEXJiQQMmCz5R1M",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN2": {
+        "description": "6933749283:AAHXfeaOYN6GRq6ulwh6h_t3okU1fJ9O9ow",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN3": {
+        "description": "6941963882:AAG83xVPWGCnAZ3p6FbVkPGO6ePy35GZTtY",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN4": {
+        "description": "7418458917:AAHqoEIOLryX-tB7xAuMzB9QQDRhhtrsrVY",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN5": {
+        "description": "7404154221:AAEakbPFVjBJvCwgR202ug7t96AZBXeAggg",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN6": {
+        "description": "7373171347:AAFxkSmJRQtezNxwQBp-M0oE3Sajm_753RI",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN7": {
+        "description": "7305524797:AAExa-PiW8TCV13FwFy71wqIjAwUws17rio",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN8": {
+        "description": "7266931821:AAFIhecxMR-xbRaX_9Q2meBVldmrxsVuRLQ",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN9": {
+        "description": "6942874484:AAEboLYlFk0LZUjhbTibVOtAoY0xscka37Y",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN10": {
+        "description": "7486814175:AAHzomTHUXeCqGpqTtCTPwyBLDrWRLLNuqU",
+        "value": "",
+        "required": true
+      },
+      "CMD_HNDLR": {
+        "description": ".",
+        "value": ".",
+        "required": false
+      },
+      "SUDO_USERS": {
+        "description": "6063555621",
+        "value": "",
+        "required": false
+      },
+      "OWNER_ID": {
+        "description": "1331161476",
+        "value": "",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "HRKU-8229ca76-ef2f-45da-bd9d-6985de5e50ae",
+        "value": "",
+        "required": false 
+      },
+      "HEROKU_APP_NAME": {
+        "description": "danger 47",
+        "value": "",
+        "required": false  
+      }
+    },
+  "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
